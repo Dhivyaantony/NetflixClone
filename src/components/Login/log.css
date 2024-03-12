@@ -5,7 +5,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url('C:\Users\91974\Desktop\PROJECTS\NETFLIXCLONE\myapp\src\ASSETS\AVATAR\b42f7780-0fe1-11eb-8460-e459acd20fb4.jpeg'); /* Specify the path to your image */
+  background-image: url('../../ASSETS/AVATAR/b42f7780-0fe1-11eb-8460-e459acd20fb4.jpeg'); /* Specify the path to your image */
   background-size: cover; /* Ensures the image covers the entire container */
 }
 
